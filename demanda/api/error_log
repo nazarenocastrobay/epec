@@ -1,0 +1,85 @@
+[14-Jun-2017 23:05:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:12 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:05:30 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 14
+[14-Jun-2017 23:06:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:11 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:19 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:19 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:19 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:19 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:20 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:35 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:06:35 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:12 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:23 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[14-Jun-2017 23:07:23 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:36:19 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:36:19 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:36:19 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:36:19 UTC] PHP Notice:  Access denied for user 'vilahouse'@'localhost' (using password: NO) in UPDATE `reclamos` SET `aprobado`='si' WHERE `index`=1 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:42:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:42:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:42:20 UTC] PHP Notice:   in UPDATE reclamos SET aprobado='si' WHERE 'index'=2 in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 01:49:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 12
+[15-Jun-2017 02:00:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 5
+[15-Jun-2017 02:00:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tu_user'@'localhost' (using password: YES) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 5
+[15-Jun-2017 02:00:36 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 8
+[15-Jun-2017 02:00:36 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 8
+[15-Jun-2017 02:00:36 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 8
+[15-Jun-2017 02:00:36 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 16
+[15-Jun-2017 02:00:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'vilahouse'@'localhost' (using password: NO) in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 16
+[15-Jun-2017 02:00:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 16
+[15-Jun-2017 02:30:00 UTC] PHP Notice:  Undefined variable: mysqli in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:30:00 UTC] PHP Fatal error:  Call to a member function query() on null in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:30:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:30:38 UTC] PHP Fatal error:  Call to a member function query() on null in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:32:48 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 24
+[15-Jun-2017 02:33:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:43:24 UTC] PHP Notice:  Undefined variable: conexion in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:43:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:43:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:44:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:45:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:45:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 02:45:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vilahouse/public_html/probando/demanda/api/aprobacion.php on line 20
+[15-Jun-2017 03:36:12 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 13
+[15-Jun-2017 03:36:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 13
+[15-Jun-2017 03:36:12 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 16
+[15-Jun-2017 03:36:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 16
+[15-Jun-2017 03:36:12 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 20
+[15-Jun-2017 03:36:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 20
+[15-Jun-2017 03:38:10 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 13
+[15-Jun-2017 03:38:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 13
+[15-Jun-2017 03:38:10 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 16
+[15-Jun-2017 03:38:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 16
+[15-Jun-2017 03:38:10 UTC] PHP Notice:  Undefined variable: link in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 20
+[15-Jun-2017 03:38:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/vilahouse/public_html/probando/demanda/api/reclamo.php on line 20
